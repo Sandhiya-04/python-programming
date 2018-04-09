@@ -1,3 +1,4 @@
-a=int(input())
-b=int(input())
-print(a**b)
+n1=int(input())
+n2=int(input())
+c=n1**n2
+print(c)      
