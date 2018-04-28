@@ -1,7 +1,7 @@
-a=int(input("enter the number: "))
-b=0
-while(a>0):
-    c=a%10
-    b=b*10+c
-    a=a//10
-print(b)
+m=int(input("enter the number: "))
+n=0
+while(m>0):
+    c=m%10
+    n=n*10+c
+    m=m//10
+print(n)
